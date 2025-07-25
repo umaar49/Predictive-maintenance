@@ -60,3 +60,10 @@ param_grid = {
     'xgb__learning_rate': [0.01, 0.1, 0.2],
     'xgb__subsample': [0.8, 1]
 }
+
+
+## 📫 About Me
+
+**Muhammad Umar Saleem**  
+🎓 Electrical Engineering Graduate (June 2025)  
+🔍 Aspiring Data Scientist | Machine Learning & IoT Enthusiast 
