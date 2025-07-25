@@ -63,7 +63,7 @@ param_grid = {
 
 ## 📫 About Me
 
-**Muhammad Umer**  
+**Muhammad Umar Saleem**  
 🎓 Electrical Engineering Graduate (June 2025)  
 🔍 Aspiring Data Scientist | Machine Learning & IoT Enthusiast 
 
