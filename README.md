@@ -53,18 +53,17 @@ Created new features to enhance model performance:
 
 Used `GridSearchCV` on a pipeline including SMOTE, StandardScaler, and XGBoost:
 
-```python
 param_grid = {
     'xgb__n_estimators': [100, 200],
     'xgb__max_depth': [3, 5, 7],
     'xgb__learning_rate': [0.01, 0.1, 0.2],
     'xgb__subsample': [0.8, 1]
 }
-
 ---
+
 ## 📫 About Me
 
-**Muhammad Umar Saleem**  
+**Muhammad Umer**  
 🎓 Electrical Engineering Graduate (June 2025)  
 🔍 Aspiring Data Scientist | Machine Learning & IoT Enthusiast 
 
